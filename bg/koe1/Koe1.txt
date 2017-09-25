@@ -7,3 +7,4 @@ INFO 11-17:
         yhteiselämä on sama asia kuin symbioosa:
             symbioosa esimerkki:
                 männyn herkkutatti joka elää männyn kanssa.
+                mänty ja sieni käyvät kauppaa vedellä,ravinteilla ja sokerilla.
