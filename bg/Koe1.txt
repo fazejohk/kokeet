@@ -1,0 +1,9 @@
+INFO 11-17:
+    Mänty:
+        Juuri on syvällä maan sisällä.
+        Juurien avulla mänty saa paljon vettä ja ravinteita.
+
+    Basic:
+        yhteiselämä on sama asia kuin symbioosa:
+            symbioosa esimerkki:
+                männyn herkkutatti joka elää männyn kanssa.
