@@ -2,9 +2,99 @@ INFO 11-17:
     Mänty:
         Juuri on syvällä maan sisällä.
         Juurien avulla mänty saa paljon vettä ja ravinteita.
+        Valokasvi.
+        Männyn siementen synty kestää 2 vuotta.
+        Mäntyä hyödynnetään tukki puuna.
+        Mänty ei siedä valonpuutetta.
+
+    Kuusi:
+        Kuusi on valloittaja puu.
+        Kuusi on varjokasvi.
+        Tarvitsee paljon vettä ja ravinteita.
 
     Basic:
         yhteiselämä on sama asia kuin symbioosa:
             symbioosa esimerkki:
                 männyn herkkutatti joka elää männyn kanssa.
                 mänty ja sieni käyvät kauppaa vedellä,ravinteilla ja sokerilla.
+        Neulaset ovat aina vihreitä.
+        Kataja on vanhimmaksi elävä puumme.
+INFO 27-32:
+    RANDRINFO:
+        Rauduskoivu on suomen kansallispuu.
+        Suomessa on kolme koivulajia:
+            rauduskoivu, hieskoivu ja vaivaiskoivu.
+        Tikoille haapa on tärkeä puu.
+        Tunturikoivu on hieskoivun pohjoinen muoto.
+        Etelä-suomessa vaivaiskoivu on soiden kasvi.
+        Miksi haavan lehdet havisevat:
+            Hieman kiertyneen ja litistyneen lehtiruodin takia lehti värisee herkästi.
+        Monien kasvien lisääntyminen edellyttää yhteistyötä eläinten kanssa.
+        Hyönteisiä kukkiinsa houkuttelemalla kasvit varmistavat pölytyksen.
+        Kovat siemenet kulkeutuvat eläimen suolen läpi vahingoittumatta ja pääsevät ulosteiden mukana uusille kasvupaikoille.
+        Siemenien avulla tapahtuva lisääntyminen on usein epävarmaa.
+        Suvuton lisääntyminen on varminta.
+        Suvuton lisääntyminen:
+            Kasvi leviää maavarren avulla, kun maavarsi katkeaa, syntyy uusi kasvi eli kasvi lisääntyy suvuttomasti.
+        Kasvupaikkatekijöitä ovat valo, vesi ja lämpö.
+        Tuuli tai hyönteiset pölyttävät metsäkasvienkukat.
+        Kasvit lisääntyvät suvullisesti siemenien avulla.
+        Siemenien kehittyminen edellyttää pölytystä ja hedelmöitystä.
+        Kasvit lisääntyvät suvuttomasti maavarsien, rönsyjen, juuriversojen ja itiöiden avulla.
+        Puolukka viihtyy valoisalla, mustikka suosii varjopaikkoja.
+        Mustikka lisääntyy suvuttomasti.
+        Puolukka lisääntyy pölyttämällä.
+        Kanerva on karujen paikkojen tunnuskasvi.
+        Kanerva viihtyy valoisilla ja karuilla kasvupaikoilla.
+        Vanamo kasvaa sammalikon päällä.
+        Kanerva saa sienijuurien avulla vettä ja ravinteita karusta maaperästä.
+INFO 35-53:
+    RANDINFO:
+        Sammaleet viihtyvät varjoisissa ja kuivissa metsissä.
+        Sammalilla ei ole juuria.
+        Vain pienet juurtumahapset kiinnittävät sammalet alustaansa.
+        Seinäsammal on suomen yleisin sammal.
+        Sammal muodostuu päällikkäisistä haaroista, joissa on pienet lehdet.
+        Jäkälässä on kaksi osakasta: levä ja sieni.
+        Jäkälät tulevat toimeen kuivilla paikoilla.
+        Jäkälässä ei ole juurta, vartta eikä lehteä.
+        Jäkälän paloista kasvaa uusia jäkäliä.
+        Jäkälät ja sammalet valtaavat ensimmäisinä uudet kasvupaikat
+        Sammaleet sietävät varjoa ja tulevat toimeen vähälläkin ravinteilla.
+        Jäkälät leviävät ensin karuille paikoille kuten kallioille, mutta saastunutta ilmaa ne eivät siedä.
+        Sienten itiöemässä on kaksi osaa: lakki ja jalka.
+        Sienimetsässä keräämme siis sienten itiöemiä!
+        SYMBIOOSI=Sieni ja puu tekemässä yhteistyötä toinen antaa vettä ja ravinteita toinen antaa sokeria.
+        Suurin osa sienestä on sienirihmasto, joka kasvattaa yläpuolellaan itiöemää.
+        LOISSIENET IMEVÄT ITSELLEEN RAVINTOA ELÄVÄSTÄ KASVISTA.
+        Hajottajina elävien sienten tehtävä on hajoittaa kuolleet eliöt kasveille käyttökelpoisiksi ravinteiksi.
+        Kuivakangas on mäntymetsää.
+        Kuivat kangasmetsät sijaitsevat karuilla ja kuivilla hiekka- ja soramailla.
+        Pohjakerroksella seinäsammal on yleisin sammal.
+        Tuorella kankaalla kasvaa kuusimetsää.
+        Tuoreen kankaan maaperä on tavallisesti erilaisista kivennäisaineista sekoittunutta moreenia, joka pidättää paremmin vettä ja sisältää enemmän ravinteita.
+        Lehdot ovat rehevimpiä metsiä.
+        Lehtometsien maaperä on kosteaa, kuohkeaa ja runsaasti ravinteita sisältävää multaa.
+        Lehdon puut kasvavat nopeasti
+INFO 56-59:
+    RANDRINFO:
+        Vesi nousee maasta kasvin lehtiin ohuissa putkissa.
+        Ruohovartisten kasvien juurissa on hentoja juurikarvoja, joiden kautta vesi imeytyy juureen.
+        Puiden ha monien varpujen juurissa ei ole juurikarvoja niiden vedenotosta huolehtii sienirihmasto.
+        Vesi ja siihen liuenneet aineet kulkevat puun puuosan ja nilaosan ohuissa putkissa.
+        KASVISOLUNOSAT ovat tuma,solulima,solukalvo ja soluseinä.
+INFO 116-119:
+    RANDRINFO:
+        Metsän vaiheet=ruoho ja heinä vaihe, pensaikko, sekametsä, vannametsä
+        Heinikkovaihe ei kestä kovin monta vuotta.
+        Pensaikko vaihe on rehevimmillään noin 10 vuoden iässä.
+        Pensaikko vaiheessa avomaan linnut vaihtuvat metsälinnuiksi.
+        Nisäkkäistä hirvi ja jänikset saavat ravintoa ja suojaa pensaikkovaiheen metsästä.
+        sekametsävaiheessa on kaikista eniten erillaisia kasveja ja eläimiä.
+        Metsä vanhenee aarniometsäksi.
+        Parin sadan vuoden ikäisenä vanha havumetsä on saavuttanut vaiheen, jossa tapahtuu enää hyvin vähän muutoksia.
+        Suomessa on vähän aarniometsiä koska useimpia metsiä hoidetaan talousmetsinä.
+        Metsä kehittyy vaiheittain kun se metsäpalon tai uudistushakkuun jälkeen muuttuu täysi kasvuiseksi metsäksi.
+        Metsäluonto on monipuolisinta keski-ikäisessä sekametsässä.
+        Vanhat aarniometsät pyritään säilyttämään koska ne tarjoavat elinmahdollisuuden moniolle eliölajeille.
+        Ilmaston lämpenemisen seurauksena lehtipuut lisääntyvät ja havupuut vähentyvät suomen metsistä.
