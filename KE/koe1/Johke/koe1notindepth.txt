@@ -1,1 +1,23 @@
-[TEXT]
+Alkuaine sisältää vain yhdenlaisia atomeja, jotka on nimetty kyseisen alkuaineen mukaan.
+Atominpääosat ovat ydin ja elektronipilvi.
+Protoni, neutroni ja elektroni ovat atomin perushiukkasia.
+Protoni on positiivisesti varautunut, elektroni negatiivisesti varautunut ja netroni varaukseton.
+Alkuaineen järjestysluku kertoo protonien ja samalla myös elektronien lukumäärän atomissa.
+Massaluku ilmoittaa ytimessä olevien protonien ja neutronien yhteismäärän.
+Isotoopit ovat saman alkuaineen atomeja, joilla on eri määrät neutroneja.
+
+Ydintä Kiertävät elektronit ovat asettuneet eri energia tasoille eli elektronikuorille.
+Elektronikuori merkitään kirjaimilla K,L,M,N,O,P ja Q
+Atomin uloimman kuoren elektroneja kutsutaan ulkoelektroneiksi.
+Uloimman elektronikuorella on korkeintaan kahdeksan elekronia.
+Oktetti on kahdeksan ulkoelektronin rakenne, johon alkuaineet pyrkiväät.
+Kemiallinen reaktio on seurausta erilaisista ulkokuoren elektronirakenteista.
+Kemiallisia yhdisteitä syntyy kemiallisessa reaktiossa.
+
+Alkuaineet on luokiteltu jaksolliseksi
+Jaksollisen järjestelmän vaakarivit ovat jaksoja ja pystyrivit ryhmiä.
+Saman jakson alkuaineilla on yhtä monta elektronikuorta.
+Saman ryhmän alkuaineilla on yhtä monta elektroni kuorta.
+Saman ryhmän alkuaineet ocat kemiallisilta aminaisuuksiltaan samankaltaiset.
+Ryhmät 1-2 ja 13-18 ovat pääryhmiä ja 3-12 sivurynhmiä.
+Kaikilla pääryhmillä on erityisnimet.
