@@ -1,1 +1,207 @@
-[TEXT]
+TIPS:
+kemiallinen reaktio on energianmuutostapahtuma joka on joko eksoterminen eli energiaa vapaurrava tai endoterminen eli energiaa sitova.
+Metallisidos yhdistää metalliatomit toisiinsa
+Kemiallista reaktiota kuvataan reaktioyhtälöllä
+Alkuaineen atomit pyrkivät saamaan ulkokuorelleen oktettirakenteen.
+1
+Alkuaine koostuu atomeista.
+Atomin pääosat ydin ja elektronipilvi.
+Protoni neutroni ja elektroni ovat atomin perushiukkasia.
+Protonit ovat sähköisesti varautuneita ja neutronit ovat varauksettomia
+Protonien lukumäärä = elektronien lukumäärä
+Järjestysluku = protonien lukumäärä
+Alkuaineista pienin järjestys luku, yksi, on vedyllä. sen atomissa on siis yksi protoni ja yksi elektroni.
+kun kemiallisen merkin yhteydessä halutaan tuoda esille alkuaineen järjestysluku, se merkitään alkuaineen kemiallisenmerkin vasempaan alakulmaan esim-
+T
+-ala16S kertoo, että rikin järjestysluku on 16. 
+Massaluku on protonien ja neutronien yhteismäärä esim (ala17 on järjestysluku ylä35 on massaluku(Protonit + Neutronit)Cl)
+Saman alkuaineen erimassaiset atomit  ovat toistensa isotooppeja
+Radioaktiiviset isotoopit = eivät ole pysyviä vaan niiden ytimet hajoavat itsestään pienemmiksi ytimiksi
+1
+2
+Okteetti = kahdeksan ulkoelektronin rakenne jonne atomit pyrkivät
+Elektroni kuoret = k = 2 l = 8 M = 18 N = 32 O = 50
+Jakso kertoo kuorten lukumäärän
+Ensimmäisen jakson muodostacat vety ja helium ne ovat ainoita alkuaineita joiden elektronit mahtuvat kaikki sisimmälle elektronikuorelle eli K-kuorelle
+jakson numero siis kertoo montakko elektronikuorta atomilla on käytössä
+Jaksollisen järjestelmän pystyrivejä kutsutaan ryhmiksi.
+Elektronien siirtyessä atomista toiseen aineiden välillä tapahtuu kemiallinen reaktio
+jalokaasut ovat passiivisia
+halogeenit ovat kiivaita reagoimaan
+jakso = jaksollisen järjestelmän vaakarivi
+2
+3
+Ioniyhdisteillä on kaava ja nimi
+Ioniyhdisteessä käytetään myös nimitystä suola
+Ioniyhdiste syntyy metallin ja epämetallin välisessä reaktiossa.
+Natrium ja kloorin välisessä välisessä reaktiossa syntyy ioniyhdiste, natriumkloridi
+Ioniyhdisteessä sähkövarausten summa on nolla
+Atomista tulee positiivinen ioni kun se luovuttaa elektroneja ja negatiivinen ioni kun se vastaanottaa elektroneja.
+3
+4
+Aine voi koostua atomeista molekyyleistä tai ioneista
+alkuaine koostuu tyypillisesti yksittäisistä atomeista mutta joidenkin alkuaineiden atomit liittyvät toisiinsa muodostaen atomien yhteenliittymiä  molekyylejä myös eri alkuaineiden atomit voivat liittyä toisiinsa molekyyleiksi tällaista--
+-- kemiallista yhdistettä sanotaan molekyyliyhdisteeksi
+kun epämetalliatomit reagoivat keskenään  ne muodostavat yleensä molekyylejä
+Molekyylistä muodostuva aine on molekyyliyhdiste esim Hala2O ja COala2
+Etuliitteet= mono,di,tri,tetra,penta,heksa
+Metallisidos muodostuu kun metalliatomit pakkautuvat lähelle toisiaan
+Atomit liittyvät toisiinsa ulkoelektronien kautta
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
