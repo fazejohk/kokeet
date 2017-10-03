@@ -48,6 +48,19 @@ Etuliitteet= mono,di,tri,tetra,penta,heksa
 Metallisidos muodostuu kun metalliatomit pakkautuvat lähelle toisiaan
 Atomit liittyvät toisiinsa ulkoelektronien kautta
 4
+5
+Kemiallisessa reaktiossa sitoutuu tai vapautuu energiaa
+Kemiallisessa reaktiossa atomit ryhmittyvät uudelleen
+Lähtöaine = reaktioon osallistuva aine
+Reaktiotuote = reaktiossa muodostuva aine
+Eksoterminen reaktio = energiaa vapauttava reaktio
+Endoterminen reaktio = energiaa sitova reaktio
+Kemiallinen reaktio on aina energianmuutostapahtuma
+Usein reaktiossa vapautuu energiaa
+kemiallista reaktiota muvaataan reaktioyhtälöllä
+Reaktio yhtälössä lähtöaineissa on samat atomit
+Reaktioyhtälön kirjoittaminen vaatii atomien laskemista
+5
 
 
 
