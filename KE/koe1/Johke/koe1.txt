@@ -19,12 +19,14 @@ Saman alkuaineen erimassaiset atomit  ovat toistensa isotooppeja
 Radioaktiiviset isotoopit = eivät ole pysyviä vaan niiden ytimet hajoavat itsestään pienemmiksi ytimiksi
 1
 2
+Oktetti on kahdeksasta elektronista koostuva uloin elektronikuori
+Ulkoelektroni on uloimmalla kuorella oleva elektroni
 Okteetti = kahdeksan ulkoelektronin rakenne jonne atomit pyrkivät
 Elektroni kuoret = k = 2 l = 8 M = 18 N = 32 O = 50
 Jakso kertoo kuorten lukumäärän
 Ensimmäisen jakson muodostacat vety ja helium ne ovat ainoita alkuaineita joiden elektronit mahtuvat kaikki sisimmälle elektronikuorelle eli K-kuorelle
 jakson numero siis kertoo montakko elektronikuorta atomilla on käytössä
-Jaksollisen järjestelmän pystyrivejä kutsutaan ryhmiksi.
+Ryhmä = jaksollisen järjestelmän pystyrivi
 Elektronien siirtyessä atomista toiseen aineiden välillä tapahtuu kemiallinen reaktio
 jalokaasut ovat passiivisia
 halogeenit ovat kiivaita reagoimaan
@@ -33,12 +35,17 @@ jakso = jaksollisen järjestelmän vaakarivi
 3
 Ioniyhdisteillä on kaava ja nimi
 Ioniyhdisteessä käytetään myös nimitystä suola
-Ioniyhdiste syntyy metallin ja epämetallin välisessä reaktiossa.
+Ioniyhdiste syntyy metallin ja epämetallin välisessä reaktiossa
 Natrium ja kloorin välisessä välisessä reaktiossa syntyy ioniyhdiste, natriumkloridi
 Ioniyhdisteessä sähkövarausten summa on nolla
 Atomista tulee positiivinen ioni kun se luovuttaa elektroneja ja negatiivinen ioni kun se vastaanottaa elektroneja.
 3
 4
+ioniyhdisteitä kutsutaan myös molekyyliyhdisteiksi
+jos alkuaineen atomien uloimmalla kuorella on 7 elektronia okteetti antaa elektroneja kunnes on 8
+alkuainemolekyylit ovat kaksiatomisia
+jos molekyylin atomit eivät ole samaa atomilajia molekyyleistä muodostuva aine on molekyyli yhdistettä
+Molekyyli on atomien yhteenliittynä jossa on vähintään kaksi atomia
 Aine voi koostua atomeista molekyyleistä tai ioneista
 alkuaine koostuu tyypillisesti yksittäisistä atomeista mutta joidenkin alkuaineiden atomit liittyvät toisiinsa muodostaen atomien yhteenliittymiä  molekyylejä myös eri alkuaineiden atomit voivat liittyä toisiinsa molekyyleiksi tällaista--
 -- kemiallista yhdistettä sanotaan molekyyliyhdisteeksi
@@ -57,10 +64,40 @@ Eksoterminen reaktio = energiaa vapauttava reaktio
 Endoterminen reaktio = energiaa sitova reaktio
 Kemiallinen reaktio on aina energianmuutostapahtuma
 Usein reaktiossa vapautuu energiaa
-kemiallista reaktiota muvaataan reaktioyhtälöllä
+kemiallista reaktiota kuvaataan reaktioyhtälöllä
 Reaktio yhtälössä lähtöaineissa on samat atomit
 Reaktioyhtälön kirjoittaminen vaatii atomien laskemista
 5
+666
+Kasveissa on monenlaisia happoja esim sitruunahappoa
+teollisesti valmistettuja happoja ovat muun muassa rikki typpi suola ja fosforihappo
+Hapot sisältävät vetyä
+Väkevä rikkihappo Hala2SOala4 on kirkasta kellertävää tai ruskehtavaa öljymäistänestettä
+hapot hajoavat vedessä ioneiksi
+Hapoista tällöub urtiava vetyioni H+ tekee liuoksen happamaksi
+mitä enemmän vety ionoja liuoksessa on sitä happamampaa liuos on
+Vahvat hapot = miltei kaikki molekyylit ovat hajonneet ionimuotoon esim Rikkihappo typpihappo ja suolahappo
+Vahvathapot ovat erittäin syövyttäviä
+Heikot hapot = vetyionit ovat tiukemmassa esim etikkahappo muurahaishappo ja oksaalihappo
+Vetyioni H+ aiheuttaa liuoksen happamuuden
+Liuoksen happamuuden mitta on pH
+pH 7- hapan liuos pH 7+ emäksinen liuos
+!!!!!!!!!!!!Kokeeseen
+Happo = rikkihappo kemiallinenkaava = Hala2SOala4 Anioni A- = sulfaatti-ioni Kemiallinenkaava = SOylä2-ala4
+	Typpihappo		      HNOala3		      nitraatti-ioni			NO-ala3
+	Hiilihappo		      Hala2COylä3	      Karbonaatti-ioni			COylä2-ala3
+	Suolahappo		      HCI		      Kloridi-ioni			CL-
+/
+Happamuutta mitataan pH-asteikolla joka ilmoittaa vetyionien määrän liuoksessa                                                                          
+pH-arvo vaihtelee välillä 0-14
+jos pH arvo on välillä 7-14 liuosta sanotaan emäksiseksi
+Hapan on taas välillä 0-7
+Liuoksen pH voidaan määrittää karkeasti indikaattorilla mutta tarkkaan määritykseen tarvitaan pH-mittari
+Kun happomolekyylistä irtoaa vetyioni siitä jää jäljelle negatiivinen ioni anioni
+Rikkihappo on tärkeä teollisuuden raaka-aine
+Luonnon hapot = sitruunahappo Muurahaishappo
+666
+
 
 
 
