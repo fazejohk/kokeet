@@ -1,11 +1,11 @@
 Talot:
 	en villa = omakotitalo
 	ett parhus = paritalo
-	ett höghus = kerrostalo
+	ett höghus = kerrostalose
 	ett radhus = rivitalo
-	en stuga = mökki
-	ett tält = teltta
-	ett slott = linna
+	en stuga = mökkimedradåkadär
+	ett tält = telttaliggastörsta
+	ett slott = linnadärifrån
 	en husvagn = asuntovaunu
 	en husbil = asuntoauto
 1:
@@ -29,3 +29,15 @@ Talot:
 	Fint kul att jag får nya grannar = hienoa kiva saada uusi naapuri
 	ska ni fest snart fredag passar bra = aiotko pitää juhlia lähiaikoina perjantai käy hyvin
 	vi får se = me saamme nähdä
+	med = mukana
+	ligga = sijaita
+	åka = ajaa/mennä
+	där = siellä/tuolla
+	största = isoin
+	finns = sijaitsee
+	du ser hela stan därifrån = sieltä sinä näet koko kaupungin
+	eller = tai
+	ett vetenskapshus = tiedetal
+	där finns massor av spännade saker = siellä on paljon kiinnostavia asioita
+	se och göra = näe ja tee
+	perfekt när det regnar = täydellistä kun sataa
