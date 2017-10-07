@@ -8,7 +8,7 @@ Talot:
 	ett slott = linnadärifrån
 	en husvagn = asuntovaunu
 	en husbil = asuntoauto
-1:
+Mainah:
 	lägenhet = asuntoauto
 	då = sitten
 	grannar = naapureita
@@ -22,7 +22,7 @@ Talot:
 	säkert = varmasti
 	är det din gitarr = onko se sinun kitarasi
 	spelar du hemma = pelaatko kotona
-	Ibland men jag har hörlurar så det är tyst = joskus mutta minulla on kuulokkeet jotenka se on hiljaista
+	Ibland men jag har hörlurar så det är tyst = joskus mutta minulla on kuulokkeet jotenka se 		on hiljaista
 	vad bra = miten hienoa
 	Vi gillar inte oljud i vår trappa = me emme tykkää melusta tässä kerroksessa
 	det är lugnt du gör ingenting jag lovar = sepä hyvä sinun ei tarvitse huolehtia mistään
@@ -41,3 +41,49 @@ Talot:
 	där finns massor av spännade saker = siellä on paljon kiinnostavia asioita
 	se och göra = näe ja tee
 	perfekt när det regnar = täydellistä kun sataa
+	siellä = där
+	jag bodde i LA = asuin la:ssa
+	oljud = äänekästä
+	vi gillar inte oljud i vår trappa
+	med = kanssa/mukana
+	fika du med din mamma = menitkö kahville äidin kanssa
+	ringde du till din kompis = soitatko sinun kaverillesi
+	jag må jättebra = minä voin tosi hyvin
+	gick du till skolan = menitkö kouluun
+	vad gjorde du förra fredagen
+	jag har trumlektion efter skolan
+	kuka = vem
+	vem är han = kuka on hän
+	han är ett riktigt fynd = hän on oikea löytö
+	!
+	var = missä
+	vem = kuka
+	varifrån = mistä
+	vems = kenen
+	hurdan = millainen
+	när = milloin
+	varför = miksi
+	vart = minne
+	hur mycket = kuinka paljon
+	hur många = kuinka monta
+	!
+	hur mår du = kuinka sinä voit
+	vilka språk talar du = mitä kieliä sinä puhut
+	hur ofta har vi svenska i veckan = kuinka usein meillä on ruotsia viikossa
+	IMP:
+	få,får,fick=saada,saa,sai
+	gå,går,gick=mennä,menee,meni
+	göra,gör,gjorde=tehdä,tekee,teki
+	vara,är,var=olla,on,oli
+	vinna,vinner,van,voittaa,voittaa,voitti
+	IMP/
+	kom=tuliko
+	hur är leget = miten menee
+	jag kommer från finland min stad är jyväskylä och jag bor i en höghus höghus har fyra 		våningar = tulen suomesta minun kaupunkini on jyväskylä ja asun kerrostalossa   	    kerrostalolla on neljä kerrosta
+	jag säljer mitt hus = olen myymässä minun taloani
+	vi kan träffas i staden = me voimme tavata kaupungissa
+	gjorde = teki
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+	
+	
+	
