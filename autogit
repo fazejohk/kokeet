@@ -3,4 +3,4 @@ import os
 
 data = str(input("INSERT COMMIT!: "))
 
-os.system("cd ~/Desktop/py/code/py/PJ/gtn/Advanced-shet && git add . && git commit -m " + data + " && git push origin master")
+os.system("git add . && git commit -m " + data + " && git push origin master")
