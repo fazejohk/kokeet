@@ -1,0 +1,74 @@
+Main:
+Er ist klar = se on tyhjä
+ich = I -e	Komme
+du = you -st	Kommst
+-
+es = it -t	kommt
+er = he -t	kommt
+sie = she -t	kommt
+-
+Sie = they -en	kommen
+ihr = your -t	kommt
+wir = we -en	kommen
+/Numerot
+0 null
+1 eins
+2 zwei
+3 drei
+4 vier
+5 fünf
+6 sechs
+7 sieben
+8 acht
+9 neun
+10 zehn
+11 elf 
+12 zwölf 
+13 dreizehn
+14 vierzehn
+15 fünfzehn
+16 sechzehn
+17 siebzehn
+18 achtzehn
+19 neunzehn
+20 zwanzig
+\Numerot
+/Sanoja
+wohnen = asua
+spielen = pelata
+lieben = rakastaa
+gehen = mennä jonnekin / mennä
+singen = laulaa
+kommen = tulla
+moin=hei
+guten morgen = hyvää huomenta
+guten tag = hyvää päivää
+guten abend = hyvää iltaa
+grüezi=hyvää huomenta
+tschüss=hei hei
+wie geht's dir=mitä sinulle kuuluu
+danke gut und dir = kiitos hyvää entä sinulle
+wie geht's Ihnen=Mitä teille kuuluu
+es geht mir gut=minulle kuuluu hyvää
+lustig = funny
+traurig = sad 
+gesund = healthy
+wichtig = Important
+Langsam = slow
+weit=far
+schnell=fast
+neu = new
+teuer=expensive
+schön=pretty
+\Sanoja
+/LS
+Das ist einfach = that is easy
+Der Junge ist lustig = the boy is funny
+Sie sprechen nicht = they are not speaking
+ich bin fertig = i am ready
+Ich bin nicht aus Indien = Im not from india
+es ist nicht lustig = it is not funny
+Ich bin nicht fertig = i am not ready
+
+\LS
+
