@@ -60,6 +60,12 @@ schnell=fast
 neu = new
 teuer=expensive
 schön=pretty
+kalt=cold
+schwer=heavy
+müde=tired
+haustier=pet
+jung=young
+hoch=high
 \Sanoja
 /LS
 Das ist einfach = that is easy
@@ -69,6 +75,8 @@ ich bin fertig = i am ready
 Ich bin nicht aus Indien = Im not from india
 es ist nicht lustig = it is not funny
 Ich bin nicht fertig = i am not ready
+es ist kalt=it is cold
+David und Max seid ihr müde = David and Max are you tired
 
 \LS
 
