@@ -66,6 +66,15 @@ müde=tired
 haustier=pet
 jung=young
 hoch=high
+leider=unfortunately
+alles klar=all right
+geht = walks
+will=wants
+mache=make
+laufen=walk
+schreibst=write
+mag=like
+kennt=knows
 \Sanoja
 /LS
 Das ist einfach = that is easy
@@ -77,6 +86,11 @@ es ist nicht lustig = it is not funny
 Ich bin nicht fertig = i am not ready
 es ist kalt=it is cold
 David und Max seid ihr müde = David and Max are you tired
-
+Mir geht's gut danke=I am doing well thanks
+es tut mir leid=I am sorry
+wir schlafen = we are sleeping
+er liest=he is reading
+ein Fisch und ein hund schwimmen=a fish and a dog are swimming
+Ich brauche wasser=i need water
 \LS
 
