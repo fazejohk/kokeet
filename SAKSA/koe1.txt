@@ -75,6 +75,11 @@ laufen=walk
 schreibst=write
 mag=like
 kennt=knows
+Sie tr‰gt=she is wearing 
+der schuh=the shoe
+die kleidung=the clothing
+groﬂ=big
+klein=small
 \Sanoja
 /LS
 Das ist einfach = that is easy
@@ -92,5 +97,11 @@ wir schlafen = we are sleeping
 er liest=he is reading
 ein Fisch und ein hund schwimmen=a fish and a dog are swimming
 Ich brauche wasser=i need water
+Habt ihr schuhe=do you have shoes
+Du isst eis=you are eating
 \LS
-
+ei=ai
+eu=oi
+ie=ii
+gr¸ﬂ gott=hyv‰‰ huomenta/p‰iv‰‰/iltaa
+auf wiedersehen=n‰kemiin
