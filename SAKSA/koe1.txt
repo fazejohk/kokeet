@@ -80,6 +80,8 @@ der schuh=the shoe
 die kleidung=the clothing
 groﬂ=big
 klein=small
+gesund=healthy
+stark=strong
 \Sanoja
 /LS
 Das ist einfach = that is easy
@@ -99,6 +101,7 @@ ein Fisch und ein hund schwimmen=a fish and a dog are swimming
 Ich brauche wasser=i need water
 Habt ihr schuhe=do you have shoes
 Du isst eis=you are eating
+Erdbeeren sind lecker=strawberries taste good
 \LS
 ei=ai
 eu=oi
