@@ -108,3 +108,5 @@ eu=oi
 ie=ii
 grüß gott=hyvää huomenta/päivää/iltaa
 auf wiedersehen=näkemiin
+/
+d, t tai konsonanttirykelmään (esim ffn) perään extra -e
