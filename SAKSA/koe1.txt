@@ -1,5 +1,11 @@
 Main:
+Hast du = onko sinulla
+Die menschen = the humans
+die sanoissa ei ole eineja esim freundessa ei ole einia
+ich komme aus = I'm from
 im = jossakin
+in = in
+ich wohne in = i live in
 Er ist klar = se on tyhj‰
 ich = I -e	Komme
 du = you -st	Kommst
@@ -8,9 +14,9 @@ es = it -t	kommt
 er = he -t	kommt
 sie = she -t	kommt
 -
-Sie = they -en	kommen
-ihr = your -t	kommt
 wir = we -en	kommen
+ihr = your -t	kommt
+Sie = they -en	kommen
 ihr = te  
 /Numerot
 0 null
@@ -159,6 +165,7 @@ finden = olla jotakin mielt‰, lˆyt‰‰
 sagen = sanoa
 mehr als = enemm‰n kuin
 nur = vain
+groﬂstadt = city
 \KS
 ei=ai
 eu=oi
@@ -168,3 +175,8 @@ auf wiedersehen=n‰kemiin
 /
 d, t tai konsonanttirykelm‰‰n (esim ffn) per‰‰n extra -e
 \
+lausuminen:
+deutSCH = sh
+SCHule = sh
+SPannend = shp
+STimmen = sht
