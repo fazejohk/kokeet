@@ -1,4 +1,16 @@
 Main:
+/T
+wo = where
+wer = who
+
+wer bist du = who are you
+wie heißt du = what is your name
+wo wohnst du = where do you live
+woher kommst du =  where are you from
+wie alt bist du = how old are you
+\T
+felix zeichnet = felix draws
+hören = kuunnella
 Hast du = onko sinulla
 Die menschen = the humans
 die sanoissa ei ole eineja esim freundessa ei ole einia
