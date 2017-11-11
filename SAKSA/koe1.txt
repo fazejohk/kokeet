@@ -1,4 +1,7 @@
 Main:
+zur = to
+noch = still
+viel spaß = have fun
 /T
 wo = where
 wer = who
@@ -30,6 +33,33 @@ wir = we -en	kommen
 ihr = your -t	kommt
 Sie = they -en	kommen
 ihr = te  
+/Tervehdykset
+Hallo = hei
+hallöchen = heippa
+moin = hei
+servus = moi
+
+Guten morgen = hyvää huomenta
+Guten tag  = hyvää päivää
+Guten abend = hyvää iltaa
+grüezi = hyvää huomenta
+\Tervehdykset
+/Spiel doch mal
+singen = laulaa
+zeichnen = piirtää
+kochen = laittaa ruokkaa
+arbeiten = työskennellä
+schreiben = kirjoittaa
+hören = kuunnella
+reiten = ratsastaa
+öffnen = avata
+spielen = pelaa
+hüpfen = hyppiä
+reden = puhua
+gehen = mennä
+trinken = juoda
+joggen = juosta
+\Spiel doch mal
 /Numerot
 0 null
 1 eins

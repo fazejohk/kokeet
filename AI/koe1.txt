@@ -1,0 +1,174 @@
+Virke alkaa isolla alkukirjaimella.
+Vuorosana alkaa isolla alkukirjaimella.
+Otsikot kirjoitetaan isolla alkukirjaimella.
+Yleisnimet kirjoitetaan pienell‰ alkukirjaimella:
+Viikonp‰iv‰t ja kuukaudet
+juhlap‰iv‰t
+kansallisuudet ja asukkaiden nimitykset
+kilet
+aikakaudet
+sodat (Paitsi jos paikan nimi esim Syyrian sota)
+El‰inlajit ja -rodut
+kasvilajit
+Ruuat
+Erisnimet kirjoiteteaan isolla alkukirjaimella:
+Henkilˆiden nimet 
+El‰inten nimet
+paikan nimet maat mantereet
+m‰et vuoret j‰rvet meret jne
+kadut
+joukkueet seurat yhdistykset
+kirjat elokuvat lehdet
+s‰vellykset
+yritykset tuotemerkit
+
+Milloin yhdyssanoissa k‰ytet‰‰n yhdysmerkki‰:
+Jos yhdyssanan alkuosan viimeinen kirjain on sama vokaali kuin loppuosan ensimm‰inen kirjain esim kuormA-Auto
+Jos yhdyssanan toinen osa on numero kirjain lyhenne tai symboli esim 13-vuotias A-rappu EU-maat
+Jos yhdyssanan jompikumpi osa on erisnimi Liisa-t‰ti Mars-patukka nyky-Ven‰j‰
+Osoittamaan rinnasteisten yhdyssanojen yhteist‰ toistamatta j‰‰nytt‰ osaa syntym‰aika ja -paikka Keski- ja Etel‰-Eurooppa
+Kun yhdyssanan osat ovat samanarvoiset parturi-kampaamo j‰‰kaappi-pakastin
+Yhteen kirjoitettavat:
+Substantiivit, joiden m‰‰riteosa on perusmuodossa mehupullo hiusharja
+Substantiivit joiden m‰‰riteosa on taipunut mutta joilla on vakiintunut merkitys ‰idinkieli, koiranpentu
+-inen-loppuiset yhdysadjektiivit ruskeasilm‰inen, viimekes‰inen, jokap‰iv‰inen(substanttiivi alkuiset erikseen: hevosen kokoinen)
+tekij‰n- ja teonnimet terveydenhoitaja, terveydenhoito
+vahvistussanan sis‰lt‰v‰t yhdyssanat putipuhdas, sysimusta
+yhdysverbit allekirjoittaa, yliviivata, yll‰pit‰‰
+vakiintuneet yhdyssanat jompikumpi, jotenkuten, nimenomaan, p‰invastoin
+Erikseen kirjoitetaan
+kielet ruotsin kieli (mutta: ruotsinkielinen)
+taipumattomat pikkusanat joka p‰iv‰, ensi kes‰, viime syksy, eri asia, aika lailla
+kun ja kuin sitten kun, aivan kuin, ik‰‰n kuin, ennen kuin, niin kuin
+lukusana + substantiivi kaksi p‰iv‰‰, viisi vuotta (mutta: viisivuotias, 5-vuotias)
+substantiivi/pronomini + p‰in mets‰‰n p‰in, kotiin p‰in, meille p‰in
+nominaalimuotoinen verbi yll‰ oleva, niin sanottu
+vakiintuneet sanaparit sit‰ paitsi, lukuun ottamatta, kerta kaikkiaan, kesken kaiken, sen j‰lkeen
+
+Virke
+Virke alkaa isolla alkukirjaimella ja loppuu pisteeseen, kysymysmerkkiin tai huutomerkkiin.
+Jasmin myˆh‰styi koulusta, koska ‰iti unohti her‰tt‰‰ h‰net.
+Mik‰ on Etiopian p‰‰kaupunki?
+Ostakaa ilmapalloja!
+Virke voi muodostua yhdest‰ tai useammasta lauseesta.
+Aurinko paistaa. (yksi)
+Jos ei sada, l‰hdemme rannalle, vaikka s‰‰ olisi pilvinen. (kolme)
+Lause
+Lause muodostuu persoonamuotoisen verbin ymp‰rille.
+Jasmin myˆh‰styi koulusta, koska ‰iti unohti her‰tt‰‰ h‰net.
+Mik‰ on Etiopian p‰‰kaupunki?
+Ostakaa ilmapalloja!
+Yhdess‰ lauseessa voi olla vain yksi persoonamuotoinen verbi. Persoonamuotoiset verbit taipuvat persoona- ja aikamuodoissa (esim. istun, istut, istuu, istumme, istutte, istuvat, istutaan jne.).
+Persoonamuotoisten verbien lis‰ksi lauseessa voi olla muita verbimuotoja.
+Minun pikkuveljeni ei ole oppinut viel‰k‰‰n k‰velem‰‰n.
+Kokeessa ei saa luntata.
+Virkkeess‰ olevien persoonamuotoisten verbien m‰‰r‰ = virkkeess‰ olevien lauseiden m‰‰r‰.
+Kun k‰velin rannalla,	n‰in koiran,	joka kantoi aurinkovarjoa.
+1. lause	2. lause	3. lause
+
+Konjunktiolause
+Konjunktiolause (KL) alkaa alistuskonjunktiolla @ett‰, jotta, koska, kun, jos, vaikka, kuin, kunnes@
+
+Kokeesta saa huonon numeron,	jos ei harjoittele ahkerasti.
+PL	KL
+Kimi sai hyv‰n numeron,	vaikka h‰n ei edes lukenut kokeeseen.
+PL	KL
+Vaikka Kimi ei edes lukenut kokeeseen,	h‰n sai hyv‰n numeron.
+KL	PL
+Relatiivilause
+Relatiivilause (RL) alkaa @relatiivipronominilla joka tai mik‰.@
+Relatiivipronominia joka k‰ytet‰‰n silloin, kun viitataan edellisen lauseen viimeiseen sanaan.
+
+Naapurillani on koira,	joka usein haukkuu kuullessaan hissin ‰‰nen.s
+PL	RL
+Relatiivipronominia mik‰ k‰ytet‰‰n silloin, kun viitataan koko edellisen lauseen sis‰lt‰m‰‰n ajatukseen.
+
+Naapurini koira haukkuu todella usein,	mik‰ on todella ‰rsytt‰v‰‰.
+PL	RL
+Kysyv‰ sivulause
+Kysyv‰ sivulause (KSL) alkaa kysymyssanalla tai verbiin liitetyll‰ kysymysliitteell‰ -ko/kˆ.
+Karo ei muista,	mihin h‰n laittoi avaimensa.
+PL	KSL
+Tutkijat haluavat selvitt‰‰,	onko avaruudessa el‰m‰‰.
+PL	KSL
+Kysyv‰n sivulauseen j‰lkeen virkkeen loppuun tulee kysymysmerkki vain silloin, kun p‰‰lause on kysyv‰.
+
+Min‰ en muista,	kuka on Ranskan presidentti.
+PL	KSL
+Muistatko sin‰,	kuka on Ranskan presidentti?
+PL	KSL
+
+P‰‰lauseen ja sivulauseen v‰liin tulee pilkku.
+P‰‰lauseen ja sivulauseen v‰liin tulee pilkku.
+Lˆysin eilen sienimets‰st‰ karhunj‰tˆksen, joka oli aivan tuore. (PL + RL)
+Koska karhu oli mahdollisesti viel‰ l‰histˆll‰, k‰velin heti takaisin kotiin. (KL + PL)
+Kahden p‰‰lauseen v‰liin tulee pilkku.
+Esimerkkej‰:
+Urholla on hieno lohik‰‰rmeleija, ja h‰n lenn‰tt‰‰ sit‰ talonsa takana olevalla pellolla aina sunnuntaisin.
+Suuret leijat n‰ytt‰v‰t upeilta, mutta perheen pienimmille niiden lenn‰tt‰minen voi olla ongelmallista.
+Kovassa tuulenpuuskassa syntyv‰ veto voi yll‰tt‰‰, eik‰ pienen lapsen paino riit‰ vastustamaan leijan voimaa.
+HUOM! Kahden p‰‰lauseen v‰liin ei tule pilkkua, jos
+... lauseilla on yhteinen osa ja lauseiden v‰liss‰ on rinnastuskonjunktio.
+
+@Rinnastuskonjunktiot: ja, sek‰, eli, tai, vai, mutta, vaan, sill‰, sek‰ñett‰, jokoñtai, -k‰@
+
+Leija lensi korkealle taivaalle ja kimalteli auringon osuessa sen hopeisiin reunoihin.
+yhteinen osa: leija (tekij‰)
+Syksyisin puiden lehdet varisevat maahan ja varjot k‰yv‰t synkemmiksi ij‰)
+yhteinen osa: syksyisin (tekij‰)
+Kahden sivulauseen v‰liin tulee pilkku,
+Esimerkkej‰:
+
+a) PL + KL + RL
+Ville ei uskalla menn‰ ulos, koska pihalla on vieras koira, joka n‰ytt‰‰ vihaiselta.
+
+b) PL + KL + KL
+Millaa harmitti, kun h‰n sai kokeesta huonon numeron, vaikka h‰n oli lukenut siihen hyvin.
+
+c) KL + KL + PL
+Vaikka Juuso tiet‰‰, ett‰ s‰ngyn alla ei ole mˆrkˆ‰, h‰n ei halua nukkua pime‰ss‰.
+HUOM! Sivulauseiden v‰liin ei tule pilkkua, jos
+... niiden v‰liss‰ on rinnastuskonjunktio!
+
+Rinnastuskonjunktiot: ja, sek‰, eli, tai, vai, mutta, vaan, sill‰, sek‰ñett‰, jokoñtai, -k‰
+
+Esimerkkej‰:
+
+a) PL + RL + RL
+
+Naapurillani on vanha Volvo, jossa on rumia ruostelaikkuja ja jonka pakoputki paukkuu.
+
+
+b) PL + KSL + KSL
+
+Minun t‰ytyy tiet‰‰ viimeist‰‰n huomenna, tuleeko Elli juhliini ja tuoko h‰n jonkun kaverin mukanaan.
+Muita pilkkus‰‰ntˆj‰
+Luettelon osien v‰liin tulee pilkku. Viimeisen ja toiseksi viimeisen osan v‰liss‰ kuitenkin rinnastuskonjunktio.
+Penaalissa on lyijykyn‰, teroitin, pyyhekumi ja harppi.
+Luultavasti joukkueen parhaaksi pelaajaksi valitaan Milla, Jasmine tai Henriikka.
+Huudahdukset ja puhuttelut erotetaan pilkulla.
+"Voi ei, unohdin k‰nnyk‰n kotiin!" huudahti ‰iti.
+"Pekka, muistathan vied‰ roskat", sanoi is‰.
+Muutkin irralliset lis‰ykset erotetaan pilkulla.
+Minun naapurini, Teppo Ter‰v‰, on nimens‰ veroisesti varsin viisas mies.
+
+Suora ja ep‰suora esitys
+1. Suorassa esityksess‰ lainataan sanatarkasti jonkun puhetta.
+Suora esitys koostuu johtolauseesta ja lainauksesta.
+Lainaukset (puheenvuorot) merkit‰‰n 7. luokalla teksteiss‰ lainausmerkeill‰ (ei vuorosanaviivoilla!)
+2. V‰limerkkien k‰ytt‰minen suorassa esityksess‰
+Kun johtolause on ensin, merkit‰‰n kaksoispiste ennen lainausmerkkej‰, aloitetaan lainaus isolla kirjaimella ja merkit‰‰n piste/huutomerkki/kysymysmerkki lainauksen loppuun ennen lainausmerkkej‰.
+Pauliina sanoi:	"Min‰ haluaisin jo l‰hte‰."
+johtolause	lainaus
+Kun lainaus on ensin, ei tule pistett‰ lainauksen loppuun. Lainaus ja johtolause erotetaan pilkulla. Johtolause alkaa pienell‰ (paitsi jos erisnimi ensin). Piste tulee viimeiseksi virkkeen loppuun.
+"Min‰ haluaisin jo l‰hte‰",	sanoi Pauliina.
+lainaus	johtolause
+Kun lainaus on ensin ja kyseess‰ on kysymys tai huudahdus, ei pilkkua merkit‰. Lainauksen loppuun tulee kysymys/huutomerkki. Johtolause alkaa pienell‰ (paitsi jos erisnimi ensin). Viimeiseksi virkkeen loppuun tulee piste.
+"Onko kukaan n‰hnyt reppuani?"	kysyi Veikko.
+lainaus	johtolause
+"Tulkaa kaikki t‰nne etupihalle!"	huusi Meeri.
+lainaus	johtolause
+3. Ep‰suorassa esityksess‰ puheenvuorot kerrotaan omin sanoin.
+Pauliina sanoi haluavansa jo l‰hte‰.
+Veikko kysyi, onko kukaan n‰hnyt h‰nen reppuaan.
+Meeri huusi, ett‰ kaikkien pit‰‰ tulla etupihalle.
