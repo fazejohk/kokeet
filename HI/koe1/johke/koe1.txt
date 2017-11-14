@@ -36,3 +36,7 @@ natsismi = äärioikeistolaisuus Saksassa
 Lapuanliike = äärioikeistolainen kansanliike Suomessa
 totalitarismi = valtion valta ulottuu kaikkialle yhteiskunnassa
 Käsitteitä/
+/MAIN
+AKSELIVALLAT: SAKSA, ITALIA, JAPANI + SUOMI SLOVAKIA UNKARI ROMANIA BULGARIA
+LIITTOUTUNEET: RANSKA, ISO-BRITANNIA, NL, USA + MONIA MAITA SODAN EDETESSÄ
+MAIN/
