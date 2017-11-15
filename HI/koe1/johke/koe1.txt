@@ -19,6 +19,7 @@ Natsien rotuopin uskomukset:
 	Myös idän slaavikansat olivat pohjasakkaa
 \HVS
 /Käsitteitä
+Blitzkrieg = salamasota
 Sosialismi = työnväenaate
 sosialisti = työnväenaatteen kannattaja
 kommunismi = työväenaatteen äärimuoto, jonka mukaan aseellinen vallankumous ja väkivalta oli sallittua työnväen aatteen puolesta
