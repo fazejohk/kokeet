@@ -14,7 +14,23 @@ lampukat = öljylamput
 ikonostaasi = kuvaseinä
 Pappeuksen kolmeastetta = diakonin papin ja piispan virka
 Ortodoksien seitsämän sakramenttia eli mysteeriota
-kaste = liittää ihmisen kirkkoon
 mirhavoitelu = lapsi saa pyhän lahjan
 Ortodoksisen luostarisäännön laatija oli 300-luvulla egyptissä vaikuttanut erakko basileios suuri.
 /Main
+Mysteeriot/
+1.Kaste
+2.mirhavoitelu
+3.Ehtoollinen
+4.Katumukset eli synnintunnustuksen sakramentti
+5.Avioliitto
+6.sairaanvoitelun sakramentti
+7.Pappeus
+
+Kaste = liittää ihmisen kirkkoon
+Mirhavoitelu = Lapsi saa uskon elämäänsä varten lahjan
+Ehtoollinen = ortodoksi kohtaa kristuksen
+Katumus = Merkitsee syntien tunnustamista ja anteeksiantamista
+Avioliitto = aviopari saa jumalansiunauksen
+Sairaanvoitelu = rukoillaan hengellisen ja ruumiin terveyden puolesta
+Pappeus = kolme astetta diakonin papin ja piispan virka
+/Mysteeriot
