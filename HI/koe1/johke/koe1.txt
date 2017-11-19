@@ -12,7 +12,7 @@ Natsi-Saksa oli totalitaarinen valtio eli natsien valta ulottui kaikille elämäna
 Tiukka sensuuri: natsien arvostely kielletty
 Natsien SA-joukot hallitsivat katuja väkivaltaisesti
 Natsien rotuopin uskomukset:
-	Saksalaiset olivat arjalaista rotua, joka suhteessa parempia kuin muut
+	Saksalaiset olivat arjalaista rotua, jotka olivat suhteessa parempia kuin muut
 	Arjalaisilla oikeus hallita maailmaa
 	Juutalaiset roduista alin ja syypäitä Saksan vaikeuksiin
 	Juutalaisten maailmanlaajuinen salaliitto tähtäsi arjalaisten tuhoon: juutalaiset hävitettävä
@@ -46,4 +46,7 @@ Molotov-ribbentrop = Saksan ja neuvostoliiton hyökkäämättömyyys sopimus
 Hitler nousi valtaan vuonna 1933.
 1920-luku oli usa:n varauden aikaa.
 Kristalliyö = Juutalaisilta ryöstettii ja juutalaisten kaupoista varastettiin
+Operaatio overlordi = normandian maihinnousu
+Voittajavaltiot perustivat vuonna 1945 Yhdistyneet kansakunnat eli YK:n turvaamaan maailman rauhaa.
+Operaatio barbarossa = Hitlerin hyökkäys neuvostoliittoon.
 MAIN/ 
