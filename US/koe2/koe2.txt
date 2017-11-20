@@ -8,14 +8,19 @@ Anglikaaninen kirkko syntyi sentakia koska kuningas henrik VIII halusi saada avi
 1500-luvulla syntyneitä kirkkoja kutsutaan protestanttisiksi kirkoiksi.
 Protestanttiset kirkot:  Reformoidut kirkot, Luterilaiset kirkot, Anglikaaniset kirkot
 Ortodoksinen = oikein ylistämistä
+Ortodoksien kirkon johtajista merkittävin on konstantinopolin ekumeeninen patriarkka.
 Liturgia = jumalanpalvelus
 Mehiläisvahakynttilät = tuohukset
 lampukat = öljylamput
 ikonostaasi = kuvaseinä
 Pappeuksen kolmeastetta = diakonin papin ja piispan virka
-Ortodoksien seitsämän sakramenttia eli mysteeriota
+Ortodoksien seitsämän sakramenttia = mysteeriota
 mirhavoitelu = lapsi saa pyhän lahjan
 Ortodoksisen luostarisäännön laatija oli 300-luvulla egyptissä vaikuttanut erakko basileios suuri.
+Jumalan äiti = Neitsyt Maria
+Jumalansynnyttäjä = Kristus
+Ortodoksisille tärkein juhla on pääsiäinen Sitä odeltää seitsämän viikkoa kestävä paasto.
+Basileios = Oli ortodoksien luostarisääntöjen laatija.
 /Main
 Mysteeriot/
 1.Kaste
@@ -33,4 +38,31 @@ Katumus = Merkitsee syntien tunnustamista ja anteeksiantamista
 Avioliitto = aviopari saa jumalansiunauksen
 Sairaanvoitelu = rukoillaan hengellisen ja ruumiin terveyden puolesta
 Pappeus = kolme astetta diakonin papin ja piispan virka
-/Mysteeriot
+/Mysteerio
+ORTODOKSIN HENGELLISEN ELÄMÄN TÄRKEIN ASIA ON JUMALANPALVELUS.MAINITSE VIISI ASIAA, JOTKA LIITTYVÄT JUMALANPALVELUKSESSA KÄYNTIIN JA ORTODOKSISEEN KIRKKORAKENNUKSEEN:
+Liturgia, Mehiläisvahakynttilät, Lampukat = öljylamput, ikonostaasi  eli kuvaseinä
+/KPL8
+Inkvisitio on tuomioistuin joka oli perustettu harhaoppisten vaientamiseksi.
+Aneet = pyhimysten käyttämättömiä hyviä töitä, sillä pystyi vähentämään aikaa kuoleman jälkeisessä kiirastulessa
+Reformaatio = uskonpuhdistus
+saksassa syntyneitä protestanttisia kirkkoja alettiin kutsua nimellä reformoidut kirkot.
+reformoidut kirkot syntyivät koska luther oli aneita vastaan.
+Anglikaaniset kirkot syntyivät koska kuningas Henrik VII halusi avioeron ja sitä ei katolilaisena saanut.
+1500-luvulla syntyneitä kirkkoja kutsutaan protestanttisiksi kirkoiksi koska ne syntyivät protestin eli vastalauseena katollisen kirkon epäkohdille.
+Luther hyväksyi seitsämästä sakramentista kaksi ne olivat kaste ja ehtoollinen, papit saivat luvan mennä naimisiin ja luostarit suljettiin.
+Katollinen kirkko järjesti 1500-luvun puolivälissä kokouksen jossa vahvistettiin että 
+aneet, kiirastulioppi, pyhimysten kunnioitus, seitsämän sakramenttia, luostarilaitos ja pappien naimattomuus kuuluivat katollisiin oppeihin. Sen sijaan aneisiin liittynyt kaupankäynti lakkautettiin.
+Protesti = vastalause
+Teesi = väittämä
+KPL8/
+Miksi protestanttisia kirkkoja kutsutaan protestanttisiksi:
+KPL9/
+Lutherin mielestä ihmisen pelastuminen on yksinoman Jumalan työtä. Muita yhdistäviä asioita ovat raamattu, kaste ja ehtoollinen.
+Anglikaanisen kirkon keskus on englannin kirkko ja tärkein hengellinen johtaja on Canterburyn arkkipiispa.
+Luterilainen kirkko pitää tärkeänä raamatun sanoman tulkitsemista tämän päivän ihmisille eri keinoilla.
+Kahden regimentin oppi = Valtion vastuualueeseen kuuluvat esimerkiksi lakien laatiminen, talouselämän hoitaminen ja perheiden tukeminen.
+Kirkko puolestaan hoitaa ihmisten hengellistä elämää, kun se julistaa evankeliumia ja huolehtii sakramenteista. Tästä ajattelusta käytetään luterilaisuudessa käsitettä kahden regimentin oppi.
+reformoitu kirkko pyrittää noudattamaan raamatun sanaa mahdollisemman tarkasti.
+Sen jumalanpalveluselämässä korostuu Jumalan lain noudattaminen, hyvät teot ja nuhteeton elämä.
+Kirkkorakennukset ovat pelkistettyjä ja koruttomia.
+/KPL9
