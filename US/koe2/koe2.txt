@@ -1,5 +1,6 @@
 Main/
 Katollisen kirkon johtaja on paavi
+pyhä messu = joka piväinen jumalanpalvelus
 Joka päiväinen jumalan palvelus = pyhä messu
 Inkvisitio = kirkon oma tuomioistuin
 Reformaatio = uskonpuhdistus
