@@ -21,7 +21,7 @@ Ortodoksisen luostarisäännön laatija oli 300-luvulla egyptissä vaikuttanut erakk
 Jumalan äiti = Neitsyt Maria
 Jumalansynnyttäjä = Kristus
 Ortodoksisille tärkein juhla on pääsiäinen Sitä odeltää seitsämän viikkoa kestävä paasto.
-Basileios = Oli ortodoksien luostarisääntöjen laatija.
+Basileios = Oli ortodo          ksien luostarisääntöjen laatija.
 /Main
 Mysteeriot/
 1.Kaste
@@ -67,3 +67,11 @@ reformoitu kirkko pyrittää noudattamaan raamatun sanaa mahdollisemman tarkasti.
 Sen jumalanpalveluselämässä korostuu Jumalan lain noudattaminen, hyvät teot ja nuhteeton elämä.
 Kirkkorakennukset ovat pelkistettyjä ja koruttomia.
 /KPL9
+Protestanttsien kirkkojen yhteiset ja erillaiset piirteet:
+Kaikki on martin lutherilta muodostunut 
+Aneita tai hyviä tekoja ei tarvittu
+Kaikki syntyivät 1500-luvulla reformaation seurauksesta
+Ihmisen pelastumiseen voi vaikuttaa vain jumala
+kaikissa protestanttisissa kirkoissa on piirteitä muista protestanttisista kirkoista.
+säännöt ovat vähän erillaisia.
+eri johtaja.
