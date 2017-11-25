@@ -1,0 +1,10 @@
+main{
+Eliöyhteisöön vaikuttaa monet ympäristötekijät, kuten valo, lämpötila, kosteus ja saatavissa olevat ravinteet
+ELIÖYHTEISÖ JA SEN KANSSA VUOROVAIKUTUKSESSA OLEVA ELOTON LUONTO MUODOSTAVAT YHDESSÄ EKOSYSTEEMIN
+Vihreät kasvit kykenevät sitomaan itseensä auringon valon säteilyenergiaa ja varastoimaan sitä
+Vihreät kasvit ovat ekosysteemin tuottajia
+Yhteyttämisessä kasveihin sitoutuu auringon energiaa
+Yhteittäminen = fotosynteesi
+Yhteyttämisessä tarvitsee aina valoa, vettä ja hiilidioksidia
+ravintoverkko kuvaa esim tietyn metsän koko eliöyhteisöä
+}
