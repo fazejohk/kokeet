@@ -1,4 +1,4 @@
-main{
+﻿main{
 Eliöyhteisöön vaikuttaa monet ympäristötekijät, kuten valo, lämpötila, kosteus ja saatavissa olevat ravinteet
 ELIÖYHTEISÖ JA SEN KANSSA VUOROVAIKUTUKSESSA OLEVA ELOTON LUONTO MUODOSTAVAT YHDESSÄ EKOSYSTEEMIN
 Vihreät kasvit kykenevät sitomaan itseensä auringon valon säteilyenergiaa ja varastoimaan sitä
@@ -14,6 +14,46 @@ yhteyttämisestä syntyy sivutuotteena happea
 Energia ja rakennusaineet liikkuvat ravintoketjussa
 luonnossa erilaiset ravintoketjut limittyvät ja lomuttuvat monin tavoin toisiinsa yhdessä ne muodostavat ravintoverkon joka kuvaa esimerkiksi tietyn metsän koko eliö yhteisöä
 ekologisen pyramidin alimmalla tasolla on tuottajat ja ylimmällä kuluttajat (Tuottajia on aina eniten, saalistettavia on enemmän kuin niitä syöviä petoja)
+
+Millä keinoin linnut muuttavat:
+päivämuuttajat = maastomerkkien ja auringon avulla
+
+yömuuttajat = tähtien ja mangneettikentän avulla
+etuja:yöllä sää on viileämpi tuuli vähäisempi petolintuja vähemmän
+
+Linnut yrittävät välttää meren yli lentämistä koska siellä ei ole kovin paljon nostetta.
+
+Paikkalintu = lintu joka pysyttelee kesät ja talvet hyvin pienellä alueella
+esim:varis, harakka, varpunen, talitiainen
+
+osittais muuttaja = vain osalajinlinnuista lähtee muuttomatkalle
+esim:hippiäinen, viherpeippo
+
+vaelluslintu = lintu, joka liikkuu laajoilla alueilla ravintotilanteesta riippuen
+esim:tilhi, käpylintu
+
+varsinaiset muuttolinnut = muuttavatpois suomesta talven ajaksi
+esim:västäräkki, kottarainen
+
+muuton syitä: 
+-ruoan puute
+-kylmyys 
+
+Yhteyttäminen tapahtuu kasvisolujen viherhiukkasissa
+auringon säteilyenergia sitoutuu yhteyttämisessä kemialliseksi energiaksi
+kasvit käyttävät sokeria kasvuun ja energian lähteenä elintoimintoihinsa
+sokeria varastoidaan tärkkelyksenä esim. mukuloihin, juuriin, runkoon ja oskiin
+Kuluttajat saavat energiansa syömällä kasveja ja pedot toisia eläimiä
+
+Energia siirtyy ravintoketjussa portaalta tposelle
+Energiavähenee kun siirrytään tasolta toiselle
+Energiaa tarvitaan koko ajan lisää ekosysteeminulkopuolella
+
+Lumipeite pitää eläimen lämpimänä
+lumipeite haittaa eläimen liikkumista
+reviiri on eläimen omistamaa aluetta
+
+Pikkulinnut voidaan jakaa näigin ryhmiin:ohutnokka, hyönteissyöjä ja tukevanokka 
 }
 InfoBox{
 Metsässä elävät kasvit, sienet ja eläimet muodostavat yhdessä alueen eliöyhteisön
@@ -37,4 +77,28 @@ Lintulajien erilaisen ravinnon, elinympäristön ja toisistaan poikkeavien elint
 Meille tutut pikkulinnut voidaan jakaa ohut-nokkaisiin hyönteissyöjiin ja tukevanokkaisiin siemensyöjiin
 Talvisessa tiaisparvessa tiaiset hakevat ravintoa puiden eri osista ja varottavat toisiaan havaitessaan pedon.
 Osa lajeista hyötyy ja osa kärsii ihmisen muuttamasta elinympäristöstä. Sini- ja talitiainen ovat hyötyneet talviruokinnasta, mutta hömötiainen on vähentynyt koska hoitometsissä on niukasti lahopuita
+}
+TRANSFORMING{
+Talviuni:
+Mäyrä
+Karhu
+Supikoira
+Ruumiinlämpö:N. +35C
+Hengitys:Normaali
+UNENSYVYYS: saattaa herätä välillä
+Talvihorros:
+siili
+lepakot
+koivuhiiri
+tammihiiri
+Ruumiinlämpö:N.+2C
+Hengitys:Hidastunut
+Unensyvyys:tajuttomuus
+kylmänhorros:
+käärmeet
+sisilisko
+hyönteiset
+Ruumiinlämpö=alle 0C
+Hengitys=erittäin vähäistä
+Unensyvyys=Syvä tajuttomuus
 }
